@@ -8,7 +8,8 @@
     
 ![изображение](https://user-images.githubusercontent.com/89098193/137985834-76020e5b-3606-45df-8593-1b3835a3ca77.png)
 
-![изображение](https://user-images.githubusercontent.com/89098193/138165447-b4372f83-3cc0-4c0e-aada-d4143f4b6ad9.png)
+![изображение](https://user-images.githubusercontent.com/89098193/138355133-ff7f954f-95d4-46c5-9955-85663d74813f.png)
+
 
 
 2. Ознакомьтесь с опциями node_exporter и выводом `/metrics` по-умолчанию. Приведите несколько опций, которые вы бы выбрали для базового мониторинга хоста по CPU, памяти, диску и сети.
