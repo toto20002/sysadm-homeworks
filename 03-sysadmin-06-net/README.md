@@ -46,7 +46,7 @@ HOST: stackoverflow.com
 
 7. Какие DNS сервера отвечают за доменное имя dns.google? Какие A записи? воспользуйтесь утилитой `dig`
 
-![изображение](https://user-images.githubusercontent.com/89098193/140194124-b1c899fa-564d-42ee-ac9c-b26ca841d094.png)
+![изображение](https://user-images.githubusercontent.com/89098193/140657030-fa3e964a-f5b5-4c59-a4b2-cba2b965d336.png)
 
 8. Проверьте PTR записи для IP адресов из задания 7. Какое доменное имя привязано к IP? воспользуйтесь утилитой `dig`
 
