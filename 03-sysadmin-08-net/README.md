@@ -7,13 +7,35 @@ Username: rviews
 show ip route x.x.x.x/32
 show bgp x.x.x.x/32
 ```
+
+![изображение](https://user-images.githubusercontent.com/89098193/142058768-4531d34d-fd4b-4d7d-9399-0ba3c9f81d40.png)
+
+
+
 2. Создайте dummy0 интерфейс в Ubuntu. Добавьте несколько статических маршрутов. Проверьте таблицу маршрутизации.
+
+![изображение](https://user-images.githubusercontent.com/89098193/142058795-5f571b49-6558-4f96-8934-2f7b1ae7b505.png)
+
+![изображение](https://user-images.githubusercontent.com/89098193/142058811-dd2aadfd-83c5-486a-aa46-c6025ce5273a.png)
+
+
 
 3. Проверьте открытые TCP порты в Ubuntu, какие протоколы и приложения используют эти порты? Приведите несколько примеров.
 
+![изображение](https://user-images.githubusercontent.com/89098193/142058854-346bbbaa-cebd-45f0-9484-bcda730c7959.png)
+
+Порт 22 - SSH
+Порт 111 - rpcbind
+
 4. Проверьте используемые UDP сокеты в Ubuntu, какие протоколы и приложения используют эти порты?
 
+![изображение](https://user-images.githubusercontent.com/89098193/142058915-247fb9b7-981b-459c-836d-7794f7a1f025.png)
+Порт 53 - DOMAIN (DNS)
+
 5. Используя diagrams.net, создайте L3 диаграмму вашей домашней сети или любой другой сети, с которой вы работали. 
+
+![изображение](https://user-images.githubusercontent.com/89098193/142058957-df224191-f663-4521-ae09-f343fa33e4be.png)
+
 
  ---
 ## Задание для самостоятельной отработки (необязательно к выполнению)
